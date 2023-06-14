@@ -25,12 +25,8 @@
 			<configuration>
 				<failOnMissingWebXml>false</failOnMissingWebXml>
 			</configuration>
-		</plugin>
-		
-	</plugins>
-     <plugins>
-   <plugin>
-        <artifactId>maven-compiler-plugin</artifactId>
+				
+	     <artifactId>maven-compiler-plugin</artifactId>
         <version>3.5.1</version>
         <configuration>
             <source>1.8</source>
